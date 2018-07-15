@@ -1,0 +1,12 @@
+body {
+    background-image: url("img/Dark\ blocks.jpg");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3 {
+    background-color: #222222;
+    color: gray;
+    width: 300px;
+    padding: 5px;
+}
