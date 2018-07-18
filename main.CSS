@@ -1,6 +1,6 @@
 body {
     background-image: url("img/Dark\ blocks.jpg");
-    height: 800px;
+    height: 850px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -8,10 +8,23 @@ h3 {
     background-color: #222222;
     color: gray;
     width: 300px;
-    padding: 5px;
+   
 }
 
-.container {
-    margin: 85px 270px;
+#websitesImg {
+    margin: 25px 0px 0px 182px;
 
+}
+
+#networkImg {
+    margin: 25px 0px 0px 97px;
+
+}
+
+#dataImg {
+    margin: 25px 0px 0px 182px;
+}
+
+#gamesImg{
+    margin: 25px 0px 0px 97px;
 }
